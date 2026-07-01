@@ -1,2 +1,2 @@
 # Moncler m&a Simulation
-M&A simulation: Moncler's expansion into luxury leather goods. Includes long list screening (9 targets), DCF valuation (Ferragamo, Burberry, Mulberry), WACC, Due Diligence, Sources & Uses, Synergy Analysis and Accretion/Dilution Model. Academic project — June 2026.
+⚠️ Disclaimer: This project is an academic simulation prepared for portfolio purposes only. It does not constitute investment advice or a recommendation to buy or sell securities. Financial data sourced from StockAnalysis, S&P Capital IQ, Damodaran Online, and official company filings.
